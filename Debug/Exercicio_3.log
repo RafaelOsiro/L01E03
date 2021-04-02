@@ -1,3 +1,0 @@
-﻿  Exercicio_3.cpp
-D:\Arquivos de Programas\Ciências da Computação\Graduação\Algoritmos_e_Programacao\Lista_de_Exercicio_1\3_Exercicio_C\Exercicio_3\Exercicio_3.cpp(26,11): warning C4477: 'scanf': a cadeia de formato '%c' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'char **'
-  Exercicio_3.vcxproj -> D:\Arquivos de Programas\Ciências da Computação\Graduação\Algoritmos_e_Programacao\Lista_de_Exercicio_1\3_Exercicio_C\Exercicio_3\Debug\Exercicio_3.exe
